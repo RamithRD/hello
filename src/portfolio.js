@@ -8,7 +8,7 @@ const greeting = {
   title: "Hi, I'm Ramith",
   subTitle: emoji("A passionate Software Developer specializing in Mobile Application development for Android and iOS platforms using Native technologies such as Kotlin / Java / Swift and Cross-Platform technologies such as Flutter / React Native."),
   subTitleTwo: emoji("There’s nothing I enjoy more than developing Scalable and Intuitive Mobile Experiences. It really is that simple."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://docs.google.com/document/d/1xyNkySSKwciD8Q2U4MTwLhANz4FjK-rq5m3AgsEDnDM/edit?usp=sharing"
 };
 
 // Social Media Links
